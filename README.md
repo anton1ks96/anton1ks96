@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>README</title>
-</head>
-<body>
     <h1>Welcome! 👋</h1>
     <p>I'm <strong>[Your Name]</strong>, a web developer focusing on database integration.</p>
     <img src="https://komarev.com/ghpvc/?username=your_username&color=brightgreen" alt="Profile Views">
@@ -48,5 +41,3 @@
             <img src="https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=flat" alt="Email">
         </a>
     </p>
-</body>
-</html>
