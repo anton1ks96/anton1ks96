@@ -29,8 +29,6 @@
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logoColor=%23229ED9" alt="Telegram Badge"/>
     </a>
 </div>
-<h2 align="center">👀 Profile Views</h2>
-<img src="https://komarev.com/ghpvc/?username=anton1ks96&color=brightgreen" alt="Profile Views">
 
 <p align="center">Thanks for visiting my profile! 😊<br>
 Feel free to reach out — let’s build something amazing together! 🌟</p>
