@@ -10,7 +10,7 @@
 
 <ul>
     <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Backend:</strong> PHP, Python (basic)</li>
+    <li><strong>Backend:</strong> PHP, Python</li>
     <li><strong>Databases:</strong> MySQL</li>
     <li><strong>Game Development:</strong> C#, Unity 2D</li>
 </ul>
